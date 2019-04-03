@@ -13,4 +13,7 @@ c.NotebookApp.notebook_dir = 'C:\Users\Joshua Cho\Documents\GitHub\'
 c.NotebookApp.browser = 'C:\Program Files (x86)\Google\Chrome\Application\chrome.exe'
 
 
-
+How to change Jupyter Notebook Starting folder
+https://stackoverflow.com/questions/35254852/how-to-change-the-jupyter-start-up-folder
+Follow 8 steps from Yul
+doesn't work 100% yet
